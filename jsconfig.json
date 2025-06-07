@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./*"]
     },
     "moduleResolution": "bundler",
     "module": "es2022"
   }
 }
+
